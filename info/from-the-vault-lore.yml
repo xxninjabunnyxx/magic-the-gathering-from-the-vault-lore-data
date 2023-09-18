@@ -1,0 +1,19 @@
+---
+object: set
+id: 599b33cd-678b-4149-9e68-2a59da7d7f81
+code: v16
+mtgo_code: v16
+arena_code: v16
+tcgplayer_id: 1821
+name: 'From the Vault: Lore'
+uri: https://api.scryfall.com/sets/599b33cd-678b-4149-9e68-2a59da7d7f81
+scryfall_uri: https://scryfall.com/sets/v16
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av16&unique=prints
+released_at: '2016-08-19'
+set_type: from_the_vault
+card_count: 16
+printed_size: 15
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/v16.svg?1694404800
